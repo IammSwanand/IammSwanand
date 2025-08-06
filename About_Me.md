@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swanand Wakadmane
+- 👋 Hi, I’m Swanand Wakadmane!
 - 👀 I’m interested in Python Development and Machine Learning
 - 🌱 I’m currently pursuing B.Tech in AI-DS
 - 💞️ I’m looking to collaborate on Hackathons
