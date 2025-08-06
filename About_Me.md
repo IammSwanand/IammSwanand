@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @IammSwanand
-- 👀 I’m interested in Python Developmet and Machine Learning
-- 🌱 I’m currently learning B.Tech in AI-DS
+- 👋 Hi, I’m Swanand Wakadmane
+- 👀 I’m interested in Python Development and Machine Learning
+- 🌱 I’m currently pursuing B.Tech in AI-DS
 - 💞️ I’m looking to collaborate on Hackathons
 - 📫 How to reach me swanandwakadmane94@gmail.com
 - 😄 Pronouns: He/Him
